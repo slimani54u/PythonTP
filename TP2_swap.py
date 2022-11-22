@@ -13,6 +13,7 @@ c=b
 b=a
 a=tmp
 
+#ou a,b,c =c,a,b
 
 """     *******************************************
          * Ne rien modifier apres cette ligne.
