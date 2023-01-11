@@ -11,7 +11,7 @@ j=0
 a=""
 for i in range(L1.count) :
     occurence=0
-    for j in range(1,L1.count,1) :
+    for i in range(len(L1)) :
         if L1[i] == L1[j] :
             occurence=occurence+1
             if occurence > occurenceMax :
