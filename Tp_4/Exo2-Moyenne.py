@@ -27,4 +27,4 @@ for i in range(nombreEtudiants):
 print(f"moyenne de class {moyenne} \n")
 
 for j in range(nombreEtudiants):
-    print(f"{j} | {notes[i]} | {notes[i]-moyenne}")
+    print(f"{j} | {notes[j]} | {notes[j]-moyenne}")

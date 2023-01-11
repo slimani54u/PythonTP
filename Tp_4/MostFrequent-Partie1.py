@@ -6,7 +6,6 @@ L1 = [2, 7, 5, 6, 7, 1, 6, 2, 1, 7]
 """
 occurence=0
 occurenceMax=0
-j=0
 a=""
 for i in range(len(L1)) :
     occurence=0
